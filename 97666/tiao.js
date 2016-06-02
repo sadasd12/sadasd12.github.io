@@ -1,3 +1,2 @@
- window.open ("http://www.xrz6.com/index.htm#2016lh");
- 
- window.location.href="http://www.xrz6.com/index.htm#2016lh";
+ window.open ("http://www.blh45.com/index.htm#20161h"); 
+ window.location.href="http://www.blh45.com/index.htm#20161h"; 
